@@ -12,4 +12,5 @@ with open("intents.json") as file:
     data = json.load(file)
 
 print(data["intents"])
+print('Hello')
 
